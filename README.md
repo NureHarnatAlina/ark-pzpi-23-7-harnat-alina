@@ -4,7 +4,7 @@
 
 Гарнат Аліна
 
-Правила оформлення програмного коду у мові JavaScript.
+Правила оформлення програмного коду у мові JavaScript згідно з Airbnb JavaScrript Style Guide.
 
 Методи рефакторингу коду програмного забезпечення: Replace Type Code With Class, Rename Method, Move Method.
 
